@@ -57,7 +57,7 @@
 >```
 
 ### 4. 构建检测代码
-
+再运行检测代码之前你需要安装[rknn_toolkit2](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/rknn-toolkit2).参考官方案例进行运行环境的搭建
 你可以运行以下代码进行视频流的缺陷检测
 
 ```bash
