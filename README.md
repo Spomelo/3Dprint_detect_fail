@@ -29,7 +29,7 @@
 在使用该项目前，请先构建3D打印系统软硬件，该项目中3D打印的硬件为自行搭建，可打印尺寸为200mm* 200mm *180mm ,软件系统使用的为klipper.关于klipper的安装与构建可参考[klipper](https://www.klipper3d.org/zh/Overview.html)。安装在板卡端完成klipper后。你可以运行该3D打印系统。
 
 ### 2. yolo网络模型的训练
-
+>数据集的获取请参考该[链接](https://pan.baidu.com/s/18IMVa8FcCOMY2EX6KrJNTw?pwd=1998)进行下载。
 > 1. 请下载rockship仓库下的[yolo代码](https://github.com/airockchip/ultralytics_yolov8))
 > 2. 添加数据集的路径
 > 3. 运行train.py文件
