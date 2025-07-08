@@ -12,7 +12,7 @@
 
 > 1. spaghetti
 >
-> <img src="D:/code/markdown/photos/image-20250520163709554.png" alt="image-20250520163709554" style="zoom:50%;" />
+> <img src="./photo/image-20250520163709554.png" alt="image-20250520163709554" style="zoom:50%;" />
 >
 > 2. zits
 >
