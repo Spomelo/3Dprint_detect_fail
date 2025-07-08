@@ -16,11 +16,11 @@
 >
 > 2. zits
 >
-> <img src="D:/code/markdown/photos/image-20250520163733910.png" alt="image-20250520163733910" style="zoom:50%;" />
+> <img src="./photo/image-20250520163733910.png" alt="image-20250520163733910" style="zoom:50%;" />
 >
 > 3. stringing
 >
-> <img src="D:/code/markdown/photos/image-20250520163811861.png" alt="image-20250520163811861" style="zoom:50%;" />
+> <img src="./photo/image-20250520163811861.png" alt="image-20250520163811861" style="zoom:50%;" />
 
 ## 二、构建过程
 
@@ -66,7 +66,7 @@ python tk.py
 
 ### 5. 运行效果
 
-![image-20250520163158287](D:/code/markdown/photos/image-20250520163158287.png)
+![image-20250520163158287](./photo/image-20250520163158287.png)
 
 启用线程池技术，使得运行帧率可以稳定在60帧左右，远超cpu推理的运行帧率。
 
