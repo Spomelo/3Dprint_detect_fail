@@ -72,7 +72,7 @@ python tk.py
 
 对照片的检测结果如下
 
-![image-20250520164100763](C:/Users/test/AppData/Roaming/Typora/typora-user-images/image-20250520164100763.png)
+![image-20250520163905560](./photo/image-20250520163905560)
 
 同时该系统支持对视频与实时视频流的检测。
 
